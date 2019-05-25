@@ -1,0 +1,6 @@
+redis
+pymysql
+lxml
+requests
+scrapy
+scrapy-splash
